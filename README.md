@@ -1,11 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=portfolio&fontSize=70&fontColor=FFC325&fontAlign=60)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=portfolio&fontSize=70&fontColor=FFC325)
-
-<!-- portfolio -->
 
 <br>
 
-<p align="center" style="font-size: 15px; color:#555;">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/110653573/222771132-e7820239-c68b-43de-a246-a3c6f81fbaca.jpg" width="220px" /> <br><br>
 <b>"LEE EUNJI"</b><br>
 <b>‘끝을 보라’</b>라는 말처럼 시작하는 것만큼 끝을 내는 것을 중요하게 생각합니다. <br>
