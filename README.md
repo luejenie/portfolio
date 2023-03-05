@@ -43,7 +43,7 @@
   - @Scheduled를 활용하여 정지 계정 자동 활성화
   - Chart.js를 활용한 관리자 대시보드 그래프 구현
 - **기술스택**<br>
-&nbsp;: Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
+    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
 - [프로젝트 상세설명](https://github.com/luejenie/FarmFarm.git)
 
 <br>
@@ -63,6 +63,6 @@
     - 웹, 태블릿, 모바일별 미디어 쿼리 적용
   - 계정, 해시태그 팔로우 기능
 - **기술스택**<br>
-&nbsp;: Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
+    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
 - [프로젝트 상세설명](https://github.com/luejenie/Fiesta.git)
 
