@@ -23,7 +23,6 @@
 <p align="center">
 📫<b>Email.</b> luejenie@gmail.com <br>
 🌱<b>Github.</b> https://github.com/luejenie <br>
-🤔<b>Blog.</b> https://luejenie.github.io
 </p>
 
 <br>
