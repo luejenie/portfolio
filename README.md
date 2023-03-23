@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=portfolio&fontSize=70&fontColor=FFC325)
 
 
-<br>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/110653573/222771132-e7820239-c68b-43de-a246-a3c6f81fbaca.jpg" width="220px" /> <br><br>
 <b>"LEE EUNJI"</b><br>
