@@ -21,7 +21,7 @@
 ## Contact
 
 <p align="center">
-📫<b>Email.</b> luejenie@gmail.com <br>
+📫<b>Email.</b> luejenie@gmail.com / lyz000@daum.net<br>
 🌱<b>Github.</b> https://github.com/luejenie <br>
 </p>
 
