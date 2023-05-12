@@ -40,6 +40,15 @@
 - [프로젝트 상세설명](https://github.com/luejenie/FarmFarm.git)
 
 <br>
+<img src="https://github.com/luejenie/portfolio/assets/110653573/7756e562-9bab-4d6c-92b6-7bcd179ef1c2" width="600px">
+<br>
+<br>
+<img src="https://github.com/luejenie/portfolio/assets/110653573/143cc6f5-2322-4fa8-919c-88f6fdde952b" width="600px">
+
+
+
+<br>
+<br>
 
 ### 2. [Fiesta](http://146.56.188.235:8080/)
 > SNS (인스타그램 클론 코딩) <br>
@@ -53,4 +62,16 @@
 - **기술스택**<br>
     - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
 - [프로젝트 상세설명](https://github.com/luejenie/Fiesta.git)
+
+<br>
+
+<img src="https://github.com/luejenie/portfolio/assets/110653573/cffaa7f0-a388-4438-8287-1b1e4e20451f" width="600px">
+<br>
+<br>
+<img src="https://github.com/luejenie/portfolio/assets/110653573/299c6a7f-4823-4601-aa78-e35d88c4beda" width="600px">
+<br><br>
+<!-- <img src="https://github.com/luejenie/portfolio/assets/110653573/3838d4d7-efbf-4d93-91c1-803a89e26a40" width="600px"> -->
+
+
+
 
