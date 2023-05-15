@@ -58,7 +58,7 @@
 
 - **담당 기능**<br>
   - 일반 회원, 판매자, 게시글, 댓글 등 대상별 **신고 기능**
-  - **관리자 페이지** 의 회원 관리, 신고 관리, 대시보드 및 관련 기능
+  - 관리자 페이지의 **회원 관리, 신고 관리, 대시보드** 및 관련 기능
 - **기술스택**<br>
     - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
 - [프로젝트 상세설명](https://github.com/luejenie/FarmFarm.git)
