@@ -56,7 +56,8 @@
 > 2022.12.12 ~ 2023.01.11 <br>
 > 6인 프로젝트
 
-- **담당 기능**<br>
+
+- **담당 기능**
   - 일반 회원, 판매자, 게시글, 댓글 등 대상별 **신고 기능**
   - 관리자 페이지의 **회원 관리, 신고 관리, 대시보드** 및 관련 기능
     - 회원 관리 : 판매자 등록 상태, 회원 활동 상태에 따른 비동기 조회
@@ -64,8 +65,10 @@
     - 필터, 정렬, 페이지네이션, 검색 기능
     - @Scheduled를 활용하여 정지 계정 자동 활성화 
     - Chart.js를 활용한 관리자 대시보드 통계 그래프 구현
-- **기술스택**<br>
-    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
+    
+- **기술스택**
+    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등
+    
 - [프로젝트 상세설명](https://github.com/luejenie/FarmFarm.git)
 - [DEMO 바로가기](http://129.154.53.250:8080/)
 
@@ -85,12 +88,15 @@
 > 2022.10.18 ~ 2022.12.10 <br>
 > 5인 프로젝트
 
-- **담당 기능**<br>
+
+- **담당 기능**
   - 로그인, 회원가입, 비밀번호 재설정 등 **회원 관련 기능**
   - **검색 기능 및 검색 결과 페이지** 구현
   - 계정, 해시태그 **팔로우** 기능
-- **기술스택**<br>
-    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등<br>
+ 
+- **기술스택**
+    - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등
+   
 - [프로젝트 상세설명](https://github.com/luejenie/Fiesta.git)
 - [DEMO 바로가기](http://146.56.188.235:8080/)
 
