@@ -65,7 +65,7 @@
     - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등
 
 - [프로젝트 상세설명](https://github.com/luejenie/FarmFarm.git)
-- [DEMO 바로가기](http://129.154.53.250:8080/)
+- [팜팜 바로가기](http://129.154.53.250:8080/)
 
 <br>
 <img src="https://github.com/luejenie/portfolio/assets/110653573/7756e562-9bab-4d6c-92b6-7bcd179ef1c2" width="600px">
@@ -93,7 +93,7 @@
     - Java11 / Spring 5.3.14 / Mybatis 3.5.11 / Apache Tomcat 9.0 / OracleDB 21c / JSP / Oracle cloud 등
 
 - [프로젝트 상세설명](https://github.com/luejenie/Fiesta.git)
-- [DEMO 바로가기](http://146.56.188.235:8080/)
+- [피에스타 바로가기](http://146.56.188.235:8080/)
 
 <br>
 
